@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I’m Caro (aka **kritostar**)
 
-<!--
-**kritostar/kritostar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | CrossFit Enthusiast | Family First | Frustrated Singer**
 
-Here are some ideas to get you started:
+I build things with code, lift heavy things in the gym, and prioritize family time — all while occasionally belting out tunes when no one’s listening. Here’s a peek into what drives me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+I work across frontend, backend, and everything in between:
+
+- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React  
+- **Backend / APIs:** Express, REST, GraphQL  
+- **Databases:** MySQL  
+- **Dev Tools / CI / Deployment:** Git, Docker, GitHub Actions  
+- **Other Tools / Bonus Skills:** Laravel, CakePHP  
+
+> *Always learning, always experimenting.*
+
+---
+
+## 🎯 Current Projects & Learning Goals
+
+- Leveling up in **JavaScript, Node.js, and React**  
+- Building **Resident's Home Software for PSWs and UCPs**  
+- (Optional) Singing more — frustration → fun 😄  
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 GitHub: [kritostar](https://github.com/kritostar)  
+- 🐦 Twitter / X: [@Kritostar01](https://twitter.com/Kritostar01)  
+- 📧 Email: [kritostar@gmail.com](mailto:kritostar@gmail.com)  
+
+---
+
+> “Code hard. Lift heavy. Sing loud.”
