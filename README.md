@@ -10,7 +10,7 @@ I build things with code, lift heavy things in the gym, and prioritize family ti
 
 I work across frontend, backend, and everything in between:
 
-- **Languages & Frameworks:** JavaScript, TypeScript, Node.js, React  
+- **Languages & Frameworks:** PHP, JavaScript, TypeScript, Node.js, React  
 - **Backend / APIs:** Express, REST, GraphQL  
 - **Databases:** MySQL  
 - **Dev Tools / CI / Deployment:** Git, Docker, GitHub Actions  
